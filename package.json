@@ -1,0 +1,23 @@
+{
+  "name": "telemetrify",
+  "version": "0.0.1",
+  "description": "MQTT Broker and Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgemurta/telemetrify.git"
+  },
+  "author": "Jorge Murta <jmurta.jm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgemurta/telemetrify/issues"
+  },
+  "homepage": "https://github.com/jorgemurta/telemetrify#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mosca": "^2.2.0"
+  }
+}
